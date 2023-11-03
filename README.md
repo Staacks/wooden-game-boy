@@ -10,7 +10,7 @@ This was requested after I published my little [wooden Game Boy cartridge](https
 
 ## Instructions / details
 
-The documentation with explanations for all toolpaths and a list of tools and bits I used can be found on my blog at (there.oughta.be/a/wooden-game-boy)[https://there.oughta.be/a/wooden-game-boy].
+The documentation with explanations for all toolpaths and a list of tools and bits I used can be found on my blog at [there.oughta.be/a/wooden-game-boy](https://there.oughta.be/a/wooden-game-boy).
 
 ## File overview
 
